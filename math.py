@@ -7,7 +7,7 @@ def add(x,y):
 # subtraction
 def sub(x,y):
 
-    pass
+    return x-y
 
 # multiply
 def mul(x,y):
