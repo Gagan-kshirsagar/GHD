@@ -2,18 +2,21 @@
 # Addition
 def add(x,y):
 
-    return x+y
+    Pass
 
+# subtraction
 def sub(x,y):
 
     pass
 
+# multiply
 def mul(x,y):
 
-    return x*y
+    Pass
 
+# divition
 def div(x,y):
 
-    return x/y
+    Pass
 
 
