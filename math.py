@@ -12,7 +12,7 @@ def sub(x,y):
 # multiply
 def mul(x,y):
 
-    Pass
+    return x*y
 
 # divition
 def div(x,y):
